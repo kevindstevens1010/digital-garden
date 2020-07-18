@@ -1,4 +1,4 @@
 ---
-title: My Notes
+title: Bookshelf
 alias: ['bookshelf']
 ---

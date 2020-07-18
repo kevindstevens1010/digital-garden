@@ -12,7 +12,7 @@ This part of my blog is based on my [interpretation of the Zettlekasten method](
 
 The most common topics I write about are:
 
-- [energy](/energy)
+- [[energy]]
 - [[climate]]
 - [[investing]]
 - [[tech]]
@@ -20,7 +20,6 @@ The most common topics I write about are:
 
 You'll notice there is no navigational aids - you need to click a clink on this page to get started. The topics above are good starting points, but you also might be interested in my [bookshelf](/bookshelf) or [[top of mind]]
 
-[[A note about cats]]
 
 👋🏻 Kevin
 
