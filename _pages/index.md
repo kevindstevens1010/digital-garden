@@ -4,8 +4,21 @@ title: Home
 id: home
 permalink: /
 ---
+# Welcome! 🌱
 
-<div>
-  <h1>Welcome! 🌱</h1>
-  <p>This is your digital garden. Here's the <a href="/your-first-note">first note</a> to get started on your exploration.</p>
-</div>
+These notes are mostly written for myself. But I share some of them publicly in order to foster conversation around the notes where I still need to clarify my thinking. If a note seems confusing or incomplete, don't adjust your set, it's probably on purpose.
+
+This part of my blog is based on my [[interpretation of the Zettlekasten method]] which has been made popular by the book "How to Take Smart Notes". 
+
+The most common topics I write about are:
+- [[energy]]
+- [[climate]]
+- [[investing]]
+- [[tech]]
+- [[company building]]
+    
+You'll notice there is no navigational aids - you need to click a clink on this page to get started. The topics above are good starting points, but you also might be interested in my [[bookshelf]] or [[top of mind]]
+
+👋🏻 Kevin
+
+[email](mailto:kevin.stevens@inteliscapital.com) | [main blog](https://www.kevindstevens.com/) | [Twitter](https://twitter.com/kevindstevens)
