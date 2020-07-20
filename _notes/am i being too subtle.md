@@ -65,7 +65,7 @@ My focus is on finding 3-10 underlying concepts and the author's evidence that s
 - **Great board members are engaged and great boards have lively debates.**
     - "Also, board materials are prepared with all relevant information prior to meetings. Board members are expected to read the materials in advance, and the real purpose of the meetings is to generate robust discussion. Our board meetings are often raucous, with frequent interruptions, questions, and commentary. As a result, our companies have always benefited from the combined wisdom of our directors."
 
-    - "Boards that don’t exercise an ownership approach are complicit in poor-performing companies."
+- "Boards that don’t exercise an ownership approach are complicit in poor-performing companies."
 
 - **Understanding risk is a central tenant to achieving consistent returns**
 
