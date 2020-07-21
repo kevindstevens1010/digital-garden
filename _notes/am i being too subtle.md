@@ -3,7 +3,7 @@ title: Am I Being Too Subtle
 ---
 
 
-I'm trying something new with my book notes.  The first book I am adding is Sam Zell's "Am I Being Too Subtle".  Sam is a real estate and investing legend, and his book is full of lessons on dealmaking, culture, and life principles.
+I'm trying something new with my book notes.  The first book I am adding is Sam Zell's "Am I Being Too Subtle". Sam is a real estate and investing legend, and his book is full of lessons on dealmaking, culture, and life principles.
 
 <!--more-->
 
