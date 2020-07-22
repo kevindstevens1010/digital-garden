@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-# Welcome! 🌱
+# My Notes 📘
 
 These notes are mostly written for myself. But I share some of them publicly in order to foster conversation around the notes where I still need to clarify my thinking. If a note seems confusing or incomplete, don't adjust your set, it's probably on purpose.
 

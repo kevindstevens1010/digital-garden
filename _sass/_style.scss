@@ -95,7 +95,12 @@ nav {
 }
 
 ul {
+  list-style-position: outside;
   padding-left: 0;
+}
+
+ul > li {
+  margin-left: 40px;
 }
 
 #notes-entry-container {
