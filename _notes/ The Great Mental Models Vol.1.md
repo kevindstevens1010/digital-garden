@@ -1,6 +1,8 @@
 ---
 title: The Great Mental Models - Volume 1
+image: /assets/mentalmodelsv1.jpeg
 ---
+
 - Developing a system for finding the right solution to the right problem in a way that examines multiple angles while still being simple is powerful. Why do we need this?
     - We have a hard time removing ourselves from the problem
     - We have too much invested in our ego - we need to have objective constants we can use to evaluate problems.
@@ -95,6 +97,8 @@ title: The Great Mental Models - Volume 1
 
 
 -------------------------
+
+![image](assets/mentalmodelsv1.jpeg)
 
 Tags: [[Bookshelf]]
 
