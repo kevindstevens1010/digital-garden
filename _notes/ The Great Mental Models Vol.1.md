@@ -1,5 +1,5 @@
 ---
-title: The Great Mental Models - Volume 1
+title: The Great Mental Models Volume 1
 image: /assets/mentalmodelsv1.jpeg
 ---
 
