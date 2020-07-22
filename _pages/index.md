@@ -12,7 +12,7 @@ This part of my blog is based on my [interpretation of the Zettlekasten method](
 
 The most common topics I write about are [[energy]], [[climate]], [[tech]], and [[company building]]. They are all good starting points, but you also might be interested in my [bookshelf](/bookshelf) or [[top of mind]]
 
-You'll notice there is no navigational aids - you need to click a clink on this page to get started. Oh, and if you see [[]], that means a page is coming soon, but I haven't created yet.
+You'll notice there is no navigational aids - you need to click a clink on this page to get started. Oh, and if you see [[]], that means a page is coming soon, but I haven't it created yet.
 
 
 👋🏻 Kevin
