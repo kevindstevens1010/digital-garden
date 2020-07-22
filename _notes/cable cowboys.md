@@ -22,8 +22,10 @@ title: Cable Cowboys
     - "Malone accomplished this consolidation of power largely by doing what he always did: picking up the phone and reaching out to the other side to look for the common ground where he could put together a mutually agreeable deal."
     - "Deals are courtships in the business world. Each sale or investment is different, a reflection of the personalities involved and the strengths and weaknesses in their logic and motivation."
 - [[The ultimate freedom is the ability to decide which obligations and problems you want to tackle]].
-- 
-----------
+
+
+---------
+
 Reference: 
 
 Tags: [[Bookshelf]]
