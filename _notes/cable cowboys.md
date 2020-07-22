@@ -1,5 +1,5 @@
 ---
-title: Cable Cowboys
+title: Cable Cowboy- John Malone & the Rise of the Modern Cable Business
 ---
 - [[Creating value and reporting income are different]]. If you hold the long view, you can focus on the former.
     - ""If you're going to ask about quarterly earnings, you're at the wrong meeting, and you probably own the wrong stock," he told one group of TCI investors. "What we care about is value. We want to create value for our shareholders. And I think the best way to create value is to have a very long view, so that's what we do. So when we have the opportunity to expand into an area we think is going to have long-term value, we do it. We don't have to worry about the impact on earnings. So it makes a different kind of organization."9 Malone wanted to change how investors defined profit-and he would, opening doors to capital for cellular telephone business and, later, hundreds of dot-com companies."
