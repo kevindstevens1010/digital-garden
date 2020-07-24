@@ -2,18 +2,6 @@
 title: Am I Being Too Subtle
 ---
 
-
-I'm trying something new with my book notes.  The first book I am adding is Sam Zell's "Am I Being Too Subtle". Sam is a real estate and investing legend, and his book is full of lessons on dealmaking, culture, and life principles.
-
-<!--more-->
-
-I won't be editing them much, so at times things may seem out of context.  I'm now using the zettelkasten method for my notetaking, and implementing it in a style similar to [Shu Omi](https://twitter.com/ShuOmi3)'s. 
-
-My focus is on finding 3-10 underlying concepts and the author's evidence that supports them in order to distill books into practical application via "zettles" or [evergreens](https://www.roambrain.com/andy-matuschak-note-taking-system/).
-
-
-### Notes
-
 - **Business is a multi-turn game, and when your business is your life the relationships you build are long-term. That means sharing in the stakes and the goal being that everyone comes out ahead of where they started.**
 
     - "I run my company as a meritocracy with a moral compass. And for those who raise their eyebrows at that statement—who think you can’t get to the top unless you beat the crap out of everybody—you’re wrong. When you’re a repeat player, when your world is your business and your business is your world, it’s all about long-term relationships. In any negotiation I believe in leaving a little bit on the table. And in any relationship I believe in sharing the stakes. I’ve been doing deals with many of the same people for decades because the goal is for us to all come out ahead. And many of my employees have been with me for twenty or thirty years or more because if I do well, they do well."
