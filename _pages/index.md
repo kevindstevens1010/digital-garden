@@ -17,5 +17,5 @@ You'll notice there is no navigational aids - you need to click a clink on this 
 
 👋🏻 Kevin
 
-[email](mailto:kevin.stevens@inteliscapital.com) | [main blog](https://www.kevindstevens.com/) | [Twitter](https://twitter.com/kevindstevens)
+[Twitter](https://twitter.com/kevindstevens)
 
