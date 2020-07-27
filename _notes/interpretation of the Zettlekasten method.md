@@ -12,5 +12,4 @@ The 5 most common types of notes I place here;
 - [[Evergreens]]: Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects. - Andy Matuschak
 - [[Budding]]: Seedlings that are becoming more connected and might eventually become their own evergreens, or connected to existing ones.
 - [[Seedling]]: The beginnings of an idea or complete thought, usually with a reference with where it comes from if I can disclose it.
-- [[Literature Note]]: My interpretation of the notes I take from books, podcasts, and articles. Normally, it's a re-written version of a highlight I took somewhere. aka [bookshelf](/bookshelf)
-- [[Permanent Note]]: The 1-5 key ideas from each piece of content I consume and want to remember.
+- [[Literature Notes]]: My interpretation of the notes I take from books, podcasts, and articles. Normally, it's a re-written version of a highlight I took somewhere. When it's from a book, you'll find it on my [bookshelf](/bookshelf)
